@@ -1,0 +1,39 @@
+b, h3{
+    color: rgb(37, 79, 42);
+}
+
+.DIVcontainerconseguenze, .DIVcontainertemperature{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5mm;
+    margin: 5px;
+    padding: 10px;
+}
+
+#idsottotitoloparagrafoconseguenze, #idsottotitoloparagrafotemperature{
+    font-size: 30px; 
+    margin-top: 5px;
+    color: rgb(64, 127, 70);
+}
+
+#idParagrafoconseguenze{
+    padding: 2px;
+}
+
+#idsottosottotitoloparagrafotempalte, #idsottosottotitoloparagrafotempeste, #idsottosottotitoloparagrafosiccita, #idsottosottotitoloparagrafooceani, #idsottosottotitoloparagrafospecie, #idsottosottotitoloparagrafocibo, #idsottosottotitoloparagrafosalute, #idsottosottotitoloparagrafopoverta{
+    font-size: 25px;
+    margin-top: 5px;    
+}
+
+#listaparagrafosalute{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.orsoIMG {
+    border-radius: 15px; 
+    float:right; 
+    margin-top: -67px; 
+    margin-right: 10px; 
+    height: 200px; 
+    width: auto;
+}

@@ -1,0 +1,34 @@
+b, h3{
+    color: rgb(37, 79, 42);
+}
+
+.DIVcontainerfattori, .DIVcontainerGasserra, .DIVcontainerCause{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5mm;
+    margin: 5px;
+    padding: 10px;
+}
+
+#idsottotitoloparagrafofattori, #idsottotitoloparagrafoGasserra, #idsottotitoloparagrafoCause{
+    font-size: 30px; 
+    margin-top: 5px;
+    color: rgb(64, 127, 70);
+}
+
+#listaparagrafoGasserra, #listaparagrafoCause{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+#idParagrafofattori, #idParagrafoGasserra, #idParagrafoCause{
+    padding: 2px;
+}
+
+.gasserraIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: 180px;
+    width: auto;
+    border-radius: 15px;
+}

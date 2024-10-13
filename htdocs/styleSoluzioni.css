@@ -1,0 +1,43 @@
+b, h3{
+    color: rgb(37, 79, 42);
+}
+
+.DIVcontainersoluzioni, .DIVcontainerforeste, .DIVcontaineroceani, .DIVcontainerenergetica, .DIVcontainerenmezzi, .DIVcontainerenplastica, .DIVcontainerenrifiuti, .DIVcontaineren3R, .DIVcontainerenfonti, .DIVcontainerenvegetale, .DIVcontainereneco{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5mm;
+    margin: 5px;
+    padding: 10px;
+}
+
+#idsottotitoloparagrafosoluzioni, #idsottotitoloparagrafoforeste, #idsottotitoloparagrafooceani, #idsottotitoloparagrafoenergetica, #idsottotitoloparagrafoenmezzi, #idsottotitoloparagrafoplastica, #idsottotitoloparagraforifiuti, #idsottotitoloparagrafo3R, #idsottotitoloparagrafofonti, #idsottotitoloparagrafovegetale, #idsottotitoloparagrafoeco{
+    font-size: 30px; 
+    margin-top: 5px;
+    color: rgb(64, 127, 70);
+}
+
+#idParagrafosoluzioni, #idParagrafoforeste, #idParagrafooceani, #idParagrafoenergetica, #idParagrafoenmezzi, #idParagrafoplastica, #idParagraforifiuti, #idParagrafo3R, #idParagrafofonti, #idParagrafovegetale, #idParagrafoeco{
+    padding: 2px;
+}
+
+#listaparagrafoforeste, #listaparagrafoeco{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.alberoIMG, .oceanoIMG, .energiaIMG, .mobilitaIMG, .plasticaIMG, .rrrIMG, .ecofriendlyIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: 180px;
+    width: auto;
+    border-radius: 15px;
+}
+
+.smaltimentoIMG, .fontiIMG, .vegetaleIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: 159px;
+    width: auto;
+    border-radius: 15px;
+}

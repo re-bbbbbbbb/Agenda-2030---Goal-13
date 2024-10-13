@@ -1,0 +1,97 @@
+b, h3{
+    color: rgb(37, 79, 42);
+}
+
+.DIVcontainerquinquennio, .DIVcontainerghiacciai, .DIVcontainermare, .DIVcontainerconcentrazioni, .DIVcontainerCO2, .DIVcontainertemperature, .DIVcontaineremissioni, .DIVcontainercapite, .DIVcontainerCina, .DIVcontainerrinnovabili{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5mm;
+    margin: 5px;
+    padding: 10px;
+}
+
+#idsottotitoloparagrafoquinquennio, #idsottotitoloparagrafoghiacciai, #idsottotitoloparagrafomare, #idsottotitoloparagrafoconcentrazioni, #idsottotitoloparagrafoCO2, #idsottotitoloparagrafotemperature, #idsottotitoloparagrafoemissioni, #idsottotitoloparagrafocapite, #idsottotitoloparagrafoCina, #idsottotitoloparagraforinnovabili{
+    font-size: 30px; 
+    margin-top: 5px;
+    color: rgb(64, 127, 70);
+}
+
+#idParagrafoquinquennio, #idParagrafoghiacciai, #idParagrafomare, #idParagrafoconcentrazioni, #idParagrafoCO2, #idParagrafotemperature, #idParagrafoemissioni, #idParagrafocapite, #idParagrafoCina, #idParagraforinnovabili{
+    padding: 2px;
+}
+
+#listaparagrafoemissioni{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.Ilquinquenniodel20152019IMG{
+    float: right;
+    margin-top: -70px;
+    margin-right: 10px;
+    height: auto;
+    width: 220px;
+    border-radius: 15px;
+}
+
+.LoscigliomentodeighiacciaiIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: auto;
+    width: 220px;
+    border-radius: 15px;
+}
+
+.IllivellodelmareIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: auto;
+    width: 220px;
+    border-radius: 15px;
+}
+
+.LeconcentrazionideigasserraIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: auto;
+    width: 220px;
+    border-radius: 15px;
+}
+
+.LeemissionidiCO2IMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: auto;
+    width: 220px;
+    border-radius: 15px;
+}
+
+.LaumentodelletemperatureIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: auto;
+    width: 220px;
+    border-radius: 15px;
+}
+
+.LeemissioniglobalidianidridecarbonicaIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: auto;
+    width: 270px;
+    border-radius: 15px;
+}
+
+.LeenergiarinnovabiliIMG{
+    float: right;
+    margin-top: -68.1px;
+    margin-right: 10px;
+    height: auto;
+    width: 270px;
+    border-radius: 15px;
+}
